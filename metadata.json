@@ -1,0 +1,5 @@
+{
+  "name": "MediSync Lite - Clinic Management System",
+  "description": "Clinic management with concurrency-safe appointment booking, waitlist, medical records and billing.",
+  "requestFramePermissions": []
+}
